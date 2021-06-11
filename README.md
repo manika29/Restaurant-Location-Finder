@@ -1,1 +1,2 @@
 # Restaurant-Location-Finder
+The project aimed at finding an optimal location for opening a multi-cuisine restaurant. It required extracting huge amount of data using web scraping techniques. Conducted analysis and visualization of data using python and Machine Learning algorithms. Used different location data providers like Foursquare to retrieve data about venues in different neighborhood and around the world.
