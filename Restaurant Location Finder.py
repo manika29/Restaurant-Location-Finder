@@ -1,9 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# <h1 align='center'>The Battle Of Neighborhoods</h1>
-
-# <b>SECTION 1-INTRODUCTION</b>
+# <h1 align='center'>Restaurant Location Finder</h1>
 
 # In this scenario, it is urgent to adopt machine learning tools in order to assist homebuyers in US to make wise and effective decisions. As a result, the business problem we are currently posing is: how could we provide support to homebuyers in USA to purchase a suitable real estate in this uncertain economic and financial scenario
 
